@@ -1,18 +1,12 @@
 <h1 align="center">Hello World! 👋, I'm Mihail </h1> 
+<h3 align="left">Skills & Technologies: </h3>
 
 
-#### My Skills:
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,django,selenium,git,github)](https://skillicons.dev)
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,py,django,selenium,git,github)](https://skillicons.dev" />
   </a>
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/MikeReCode/MikeReCode/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/MikeReCode/MikeReCode/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 </p>
 
 
