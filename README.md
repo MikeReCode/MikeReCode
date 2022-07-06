@@ -6,7 +6,7 @@
 
 <h3 align="left">About me: </h3>
 
-<img align='left' src='https://cdn-icons.flaticon.com/png/128/3242/premium/3242257.png?token=exp=1657050287~hmac=1e6b537dad090453969c3313efde5cba' width='30' >I am a self-taught developer, and this is my repository, I hope you enjoy my projects!
+<img align='left' src='https://camo.githubusercontent.com/e38480d9d90a7eeb5f8500cf03de74bd37e39aefaa49a8fbb0d681ba88762e6d/68747470733a2f2f63646e2d69636f6e732e666c617469636f6e2e636f6d2f706e672f3132382f333234322f7072656d69756d2f333234323235372e706e673f746f6b656e3d6578703d313635373035303238377e686d61633d3165366235333764616430393034353339363963333331336566646535636261' width='30' >I am a self-taught developer, and this is my repository, I hope you enjoy my projects!
 
 
 <h3 align="left">Skills & Technologies: </h3>
@@ -25,15 +25,15 @@
 <h3 align="left">Hobbies: </h3>
 
 
-<img align='left' src='https://cdn-icons.flaticon.com/png/128/1686/premium/1686146.png?token=exp=1657048661~hmac=bc24858dfb1774ab54f4a94a5ec7a7df' width='30' > Cruising the city with my longboard
+<img align='left' src='https://camo.githubusercontent.com/41520120b5ece7a5a7788db6fe357c5a7cc3ebb9c9c67846f758c9c1bd8238be/68747470733a2f2f63646e2d69636f6e732e666c617469636f6e2e636f6d2f706e672f3132382f313638362f7072656d69756d2f313638363134362e706e673f746f6b656e3d6578703d313635373034383636317e686d61633d6263323438353864666231373734616235346634613934613565633761376466' width='30' > Cruising the city with my longboard
 
-<img align='left' src='https://cdn-icons.flaticon.com/png/128/2581/premium/2581730.png?token=exp=1657048144~hmac=9f8a05a251c13cbd8d4cbfcccdb5287e' width='30' > Play some basketball games on Saturdays
+<img align='left' src='https://camo.githubusercontent.com/784afd525151ea30d69e8ba740b538b46e2c3dffcb77d1f4ef03ca0b4f649f06/68747470733a2f2f63646e2d69636f6e732e666c617469636f6e2e636f6d2f706e672f3132382f323538312f7072656d69756d2f323538313733302e706e673f746f6b656e3d6578703d313635373034383134347e686d61633d3966386130356132353163313363626438643463626663636364623532383765' width='30' > Play some basketball games on Saturdays
 
 <img align='left' src='https://cdn-icons-png.flaticon.com/128/2621/2621303.png' width='30' > Write a few lines of code and learn some new things
 
 <img align='left' src='https://cdn-icons-png.flaticon.com/128/1142/1142682.png' width='30' > Hike in the mountains to catch the best views
 
-<img align='left' src='https://cdn-icons.flaticon.com/png/128/2265/premium/2265171.png?token=exp=1657046160~hmac=e93f3755c7d8c1044d57db8cf82694ea' width='30' > Learning to play the harmonica
+<img align='left' src='https://camo.githubusercontent.com/52fd56bbdb2d70951b2c48e4de3d3c70cd5cc224d8c35fb2411a3d7ebf5cebe0/68747470733a2f2f63646e2d69636f6e732e666c617469636f6e2e636f6d2f706e672f3132382f323236352f7072656d69756d2f323236353137312e706e673f746f6b656e3d6578703d313635373034363136307e686d61633d6539336633373535633764386331303434643537646238636638323639346561' width='30' > Learning to play the harmonica
 
 
 
