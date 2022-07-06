@@ -6,7 +6,7 @@
 
 <h3 align="left">About me: </h3>
 
-<img align='left' src='decoration/man.png' width='30' >I am a self-taught developer, and this is my repository, I hope you enjoy my projects!
+<img align='left' src='decoration/man.png' width='30' >I am a self-taught developer, and this is my repository, I hope you'll enjoy my projects!
 
 
 <h3 align="left">Skills & Technologies: </h3>
