@@ -27,11 +27,11 @@
 
 <img align='left' src='decoration/longboard.png' width='30' > Cruising the city with my longboard
 
-<img align='left' src='decoration/basket.png' width='30' > Play some basketball games on Saturdays
+<img align='left' src='decoration/basket.png' width='30' > Play basketball on Saturdays
 
-<img align='left' src='decoration/programming.png' width='30' > Write a few lines of code and learn some new things
+<img align='left' src='decoration/programming.png' width='30' > Write a few lines of code and learn something new 
 
-<img align='left' src='decoration/hiking.png' width='30' > Hike in the mountains to catch the best views
+<img align='left' src='decoration/hiking.png' width='30' > Hike in the mountains to reach the best views
 
 <img align='left' src='decoration/harmonica.png' width='30' > Learning to play the harmonica
 
