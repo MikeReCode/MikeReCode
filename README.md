@@ -33,8 +33,6 @@
 
 <img align='left' src='decoration/hiking.png' width='30' > Hike in the mountains to reach the best views
 
-<img align='left' src='decoration/harmonica.png' width='30' > Learning to play the harmonica
-
 
 
 <h3 align="left">Contact: </h3>
